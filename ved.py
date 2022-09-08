@@ -125,3 +125,4 @@ if(Game_state == 'start' or Game_state == '1' or Game_state =='Start'):
 else:
    print('\n')
    print('thank you') 
+   print('hehehe boiii')
